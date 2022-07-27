@@ -18,12 +18,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282252285143']
-global.premium = ['6282252285144']
-global.namaowner = ['♲︎︎︎ ɪᴍᴠ ʏᴀɴɴ']
-global.namabot = ['ɪᴍᴠ ʙᴏᴛ ☕︎']
-global.packname = 'ɪᴍᴠ ʙᴏᴛ'
-global.author = 'By Imv Team'
+global.owner = ['6285600380823','6285693650294']
+global.premium = ['6285600380823']
+global.namaowner = ['♲︎︎︎ ᴏᴡɴᴇʀ']
+global.namabot = ['ɴᴇᴏ ʙᴏᴛ ☕︎']
+global.packname = 'ɴᴇᴏ ʙᴏᴛ'
+global.author = 'By Neo Team'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
